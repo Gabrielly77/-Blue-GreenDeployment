@@ -10,4 +10,4 @@ Esse é o jeitinho que a AWS usa pra lançar novas versões sem causar dor de ca
 
 Tô estudando firme pra minha próxima certi e achei que essa analogia poderia ajudar outras pessoas também.💙
 
-https://media.licdn.com/dms/image/v2/D4D22AQH8Oow77BNtYQ/feedshare-shrink_800/B4DZcEBvC.GgAg-/0/1748119259655?e=1751500800&v=beta&t=3jTbtbcLB0wiFCOCBLDDRMpr7riQZ1tim9MdZNRXRuk
+![image](https://github.com/user-attachments/assets/17e841a9-15fc-4f32-9d74-45122ae6754c)
